@@ -1,0 +1,3 @@
+O mergeSort é um algoritimo de ordenação que usa da ideia de dividir para conquistar. Dividimos o problema em pequenas partes e depois juntamos no todo.
+É bem utilizado por performar bem.
+
